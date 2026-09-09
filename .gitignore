@@ -1,0 +1,9 @@
+.venv/
+.env
+__pycache__/
+*.py[cod]
+.database/
+database/chroma/
+extraction.txt
+document.json
+.streamlit/
